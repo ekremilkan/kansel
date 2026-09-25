@@ -1,14 +1,17 @@
-import { Phone, Mail, ArrowUpRight } from 'lucide-react'
+import { Phone, Mail, ArrowUpRight } from "lucide-react";
 
 export function Contact() {
   return (
-    <section id="kontakt" className="relative overflow-hidden bg-surface py-20 md:py-28">
+    <section
+      id="kontakt"
+      className="relative overflow-hidden bg-surface py-20 md:py-28"
+    >
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-0"
         style={{
           background:
-            'radial-gradient(60% 70% at 100% 0%, rgba(18,89,183,0.30), transparent 55%)',
+            "radial-gradient(60% 70% at 100% 0%, rgba(18,89,183,0.30), transparent 55%)",
         }}
       />
       <div className="container-page relative grid gap-12 lg:grid-cols-2 lg:gap-16">
@@ -51,8 +54,8 @@ export function Contact() {
             />
           </a>
 
-            <a
-              href="mailto:info@kansel-dienstleistungen.de"
+          <a
+            href="mailto:info@kansel-dienstleistungen.de"
             className="group flex min-w-0 items-center justify-between gap-3 rounded-2xl border border-border bg-card p-5 transition-colors hover:border-border-strong sm:gap-4 sm:p-6"
           >
             <span className="flex min-w-0 items-center gap-3 sm:gap-4">
@@ -76,5 +79,5 @@ export function Contact() {
         </div>
       </div>
     </section>
-  )
+  );
 }

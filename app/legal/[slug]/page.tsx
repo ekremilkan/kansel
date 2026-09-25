@@ -97,7 +97,10 @@ const legalDocuments = {
         "Angaben gemäß § 5 DDG",
         "Kansel Dienstleistungen\nInhaber: Selim Han Kandogmus\nRobert-Koch-Straße 11\n68535 Edingen-Neckarhausen\nDeutschland",
       ],
-      ["Kontakt", "Telefon: 0176 46647043\nE-Mail: info@kansel-dienstleistungen.de"],
+      [
+        "Kontakt",
+        "Telefon: 0176 46647043\nE-Mail: info@kansel-dienstleistungen.de",
+      ],
       ["Unternehmensform", "Einzelunternehmen"],
       [
         "Umsatzsteuer",
