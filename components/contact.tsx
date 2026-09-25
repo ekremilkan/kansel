@@ -51,8 +51,8 @@ export function Contact() {
             />
           </a>
 
-          <a
-            href="mailto:Kontakt.kansel@gmail.com"
+            <a
+              href="mailto:info@kansel-dienstleistungen.de"
             className="group flex min-w-0 items-center justify-between gap-3 rounded-2xl border border-border bg-card p-5 transition-colors hover:border-border-strong sm:gap-4 sm:p-6"
           >
             <span className="flex min-w-0 items-center gap-3 sm:gap-4">
@@ -64,7 +64,7 @@ export function Contact() {
                   E-Mail
                 </span>
                 <strong className="mt-1 break-all text-base font-semibold tracking-tight sm:text-lg">
-                  Kontakt.kansel@gmail.com
+                  info@kansel-dienstleistungen.de
                 </strong>
               </span>
             </span>

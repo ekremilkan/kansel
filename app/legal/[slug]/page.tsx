@@ -57,7 +57,7 @@ const legalDocuments = {
     sections: [
       [
         "Verantwortlicher",
-        "Kansel Dienstleistungen\nInhaber: Selim Han Kandogmus\nRobert Koch Straße 11, 68535 Edingen-Neckarhausen\nTelefon: 0176 46647043\nE-Mail: kontakt.kansel@gmail.com",
+        "Kansel Dienstleistungen\nInhaber: Selim Han Kandogmus\nRobert Koch Straße 11, 68535 Edingen-Neckarhausen\nTelefon: 0176 46647043\nE-Mail: info@kansel-dienstleistungen.de",
       ],
       [
         "1. Zweck der Datenverarbeitung",
@@ -97,7 +97,7 @@ const legalDocuments = {
         "Angaben gemäß § 5 DDG",
         "Kansel Dienstleistungen\nInhaber: Selim Han Kandogmus\nRobert-Koch-Straße 11\n68535 Edingen-Neckarhausen\nDeutschland",
       ],
-      ["Kontakt", "Telefon: 0176 46647043\nE-Mail: Kontakt.kansel@gmail.com"],
+      ["Kontakt", "Telefon: 0176 46647043\nE-Mail: info@kansel-dienstleistungen.de"],
       ["Unternehmensform", "Einzelunternehmen"],
       [
         "Umsatzsteuer",
@@ -124,7 +124,7 @@ const legalDocuments = {
     sections: [
       [
         "Unternehmensdaten",
-        "Kansel Dienstleistungen\nInhaber: Selim Han Kandogmus\nRobert Koch Straße 11, 68535 Edingen-Neckarhausen\nTel.: 0176 46647043\nE-Mail: kontakt.kansel@gmail.com",
+        "Kansel Dienstleistungen\nInhaber: Selim Han Kandogmus\nRobert Koch Straße 11, 68535 Edingen-Neckarhausen\nTel.: 0176 46647043\nE-Mail: info@kansel-dienstleistungen.de",
       ],
       [
         "Widerrufsrecht",
